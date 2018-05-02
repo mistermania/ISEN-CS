@@ -1,12 +1,14 @@
-﻿using System;
+﻿
+using Isen.Cs.Library.Lessons;
 
 namespace Isen.Cs.ConsoleApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            ATypes aTypes = new ATypes();
+            aTypes.PrimitiveTypes();
         }
     }
 }
