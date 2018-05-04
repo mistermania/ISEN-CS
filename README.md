@@ -75,3 +75,15 @@ Inclure toute la structure d'une classe :
 * `using` (imports du java)
 * `namespace` (package du java)
 * `class` 
+
+Coder la classe (voir code).
+L'appeler dans le main().
+
+### B_Enumerations
+Ce chapitre passe en revue les `enum`.  
+Dans le projet Library, créer cette classe.  
+
+### C_Arrays
+Aperçu des passages par valeur ou référence.  
+Ce chapitre traite des tableaux "primitifs" du style `object[]` ou `object[][]`.  
+Créer la classe C_Arrays avec une méthode d'éxécution et l'appeler dans le main.

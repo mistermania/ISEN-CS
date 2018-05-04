@@ -23,6 +23,8 @@
         <e p="Isen.Cs.Library.csproj" t="IncludeRecursive" />
         <e p="Lessons" t="Include">
           <e p="ATypes.cs" t="Include" />
+          <e p="B_Enumerations.cs" t="Include" />
+          <e p="C_Arrays.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
