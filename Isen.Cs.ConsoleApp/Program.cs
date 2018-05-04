@@ -13,7 +13,8 @@ namespace Isen.Cs.ConsoleApp
             /*B_Enumerations enumerations = new B_Enumerations();
             enumerations.RunEnumerations();*/
             
-            C_Arrays.StaticRunner();
+          //  C_Arrays.StaticRunner();
+            D_MyCollection.Run();
             
         }
     }

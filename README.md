@@ -87,3 +87,12 @@ Dans le projet Library, créer cette classe.
 Aperçu des passages par valeur ou référence.  
 Ce chapitre traite des tableaux "primitifs" du style `object[]` ou `object[][]`.  
 Créer la classe C_Arrays avec une méthode d'éxécution et l'appeler dans le main.
+
+### D_MyCollection
+But: créer une classe de tableau mutable de string.  
+Ce type de classe peut être ArrayList, List, MutableArray, Collection, ..., selon les languages et API.
+Créer `D_MyCollection` dans Lesson, avec méthode d'éxécution et appel dans main.
+Créer à la racine de Library une classe `MyCollection`.   
+
+Créer à la racine de Library une interface `IMyCollection`.
+`MyCollection` doit implémenter l'interface `IMyCollection`.
